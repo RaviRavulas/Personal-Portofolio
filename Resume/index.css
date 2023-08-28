@@ -389,7 +389,7 @@ span{
     width: 75%;
 }
 .skills-column:nth-child(2) .skills-content .progress:nth-child(4) .bar span{
-    width: 40%;
+    width: 75%;
 }
 .projects{
     display:flex;
